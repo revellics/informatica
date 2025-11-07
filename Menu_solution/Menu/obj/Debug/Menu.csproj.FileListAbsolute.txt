@@ -1,0 +1,7 @@
+C:\Users\s.revello.4127\Desktop\Menu_solution\Menu\bin\Debug\Menu.exe.config
+C:\Users\s.revello.4127\Desktop\Menu_solution\Menu\bin\Debug\Menu.exe
+C:\Users\s.revello.4127\Desktop\Menu_solution\Menu\bin\Debug\Menu.pdb
+C:\Users\s.revello.4127\Desktop\Menu_solution\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\Menu_solution\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\Menu_solution\Menu\obj\Debug\Menu.exe
+C:\Users\s.revello.4127\Desktop\Menu_solution\Menu\obj\Debug\Menu.pdb

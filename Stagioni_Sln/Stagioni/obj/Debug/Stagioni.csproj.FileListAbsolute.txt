@@ -1,0 +1,8 @@
+C:\Users\s.revello.4127\Desktop\Stagioni_Sln\Stagioni\bin\Debug\Stagioni.exe.config
+C:\Users\s.revello.4127\Desktop\Stagioni_Sln\Stagioni\bin\Debug\Stagioni.exe
+C:\Users\s.revello.4127\Desktop\Stagioni_Sln\Stagioni\bin\Debug\Stagioni.pdb
+C:\Users\s.revello.4127\Desktop\Stagioni_Sln\Stagioni\obj\Debug\Stagioni.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\Stagioni_Sln\Stagioni\obj\Debug\Stagioni.csproj.SuggestedBindingRedirects.cache
+C:\Users\s.revello.4127\Desktop\Stagioni_Sln\Stagioni\obj\Debug\Stagioni.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\Stagioni_Sln\Stagioni\obj\Debug\Stagioni.exe
+C:\Users\s.revello.4127\Desktop\Stagioni_Sln\Stagioni\obj\Debug\Stagioni.pdb

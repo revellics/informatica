@@ -1,0 +1,8 @@
+C:\Users\s.revello.4127\Desktop\MenuGrafico_Solution\MenuGrafico\obj\Debug\MenuGrafico.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\MenuGrafico_Solution\MenuGrafico\obj\Debug\MenuGrafico.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\MenuGrafico_Solution\MenuGrafico\bin\Debug\MenuGrafico.exe.config
+C:\Users\s.revello.4127\Desktop\MenuGrafico_Solution\MenuGrafico\bin\Debug\MenuGrafico.exe
+C:\Users\s.revello.4127\Desktop\MenuGrafico_Solution\MenuGrafico\bin\Debug\MenuGrafico.pdb
+C:\Users\s.revello.4127\Desktop\MenuGrafico_Solution\MenuGrafico\obj\Debug\MenuGrafico.exe
+C:\Users\s.revello.4127\Desktop\MenuGrafico_Solution\MenuGrafico\obj\Debug\MenuGrafico.pdb
+C:\Users\s.revello.4127\Desktop\MenuGrafico_Solution\MenuGrafico\obj\Debug\MenuGrafico.exe.config

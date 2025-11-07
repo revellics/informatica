@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s.revello.4127\\Desktop\\SommaNumeriInteri_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5133C64B-0727-45AE-8D76-0ECE8F1F937E}|SommaNumeriInteri\\SommaNumeriInteri.csproj|c:\\users\\s.revello.4127\\desktop\\sommanumeriinteri_solution\\sommanumeriinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5133C64B-0727-45AE-8D76-0ECE8F1F937E}|SommaNumeriInteri\\SommaNumeriInteri.csproj|solutionrelative:sommanumeriinteri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.revello.4127\\Desktop\\SommaNumeriInteri_Solution\\SommaNumeriInteri\\Program.cs",
+              "RelativeDocumentMoniker": "SommaNumeriInteri\\Program.cs",
+              "ToolTip": "C:\\Users\\s.revello.4127\\Desktop\\SommaNumeriInteri_Solution\\SommaNumeriInteri\\Program.cs",
+              "RelativeToolTip": "SommaNumeriInteri\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T06:29:58.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

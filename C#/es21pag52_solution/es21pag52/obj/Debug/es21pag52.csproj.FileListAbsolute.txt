@@ -1,8 +1,0 @@
-E:\Informatica\C#\es21pag52_solution\es21pag52\bin\Debug\es21pag52.exe.config
-E:\Informatica\C#\es21pag52_solution\es21pag52\bin\Debug\es21pag52.exe
-E:\Informatica\C#\es21pag52_solution\es21pag52\bin\Debug\es21pag52.pdb
-E:\Informatica\C#\es21pag52_solution\es21pag52\obj\Debug\es21pag52.csproj.AssemblyReference.cache
-E:\Informatica\C#\es21pag52_solution\es21pag52\obj\Debug\es21pag52.csproj.CoreCompileInputs.cache
-E:\Informatica\C#\es21pag52_solution\es21pag52\obj\Debug\es21pag52.exe
-E:\Informatica\C#\es21pag52_solution\es21pag52\obj\Debug\es21pag52.pdb
-E:\Informatica\C#\es21pag52_solution\es21pag52\obj\Debug\es21pag52.exe.config

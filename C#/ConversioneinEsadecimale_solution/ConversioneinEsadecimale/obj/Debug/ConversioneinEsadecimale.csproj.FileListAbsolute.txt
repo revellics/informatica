@@ -1,8 +1,0 @@
-E:\Informatica\C#\ConversioneinEsadecimale_solution\ConversioneinEsadecimale\bin\Debug\ConversioneinEsadecimale.exe.config
-E:\Informatica\C#\ConversioneinEsadecimale_solution\ConversioneinEsadecimale\bin\Debug\ConversioneinEsadecimale.exe
-E:\Informatica\C#\ConversioneinEsadecimale_solution\ConversioneinEsadecimale\bin\Debug\ConversioneinEsadecimale.pdb
-E:\Informatica\C#\ConversioneinEsadecimale_solution\ConversioneinEsadecimale\obj\Debug\ConversioneinEsadecimale.csproj.AssemblyReference.cache
-E:\Informatica\C#\ConversioneinEsadecimale_solution\ConversioneinEsadecimale\obj\Debug\ConversioneinEsadecimale.csproj.CoreCompileInputs.cache
-E:\Informatica\C#\ConversioneinEsadecimale_solution\ConversioneinEsadecimale\obj\Debug\ConversioneinEsadecimale.exe
-E:\Informatica\C#\ConversioneinEsadecimale_solution\ConversioneinEsadecimale\obj\Debug\ConversioneinEsadecimale.pdb
-E:\Informatica\C#\ConversioneinEsadecimale_solution\ConversioneinEsadecimale\obj\Debug\ConversioneinEsadecimale.exe.config

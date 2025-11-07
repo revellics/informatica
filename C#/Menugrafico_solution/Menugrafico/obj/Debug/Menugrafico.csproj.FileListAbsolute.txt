@@ -1,7 +1,0 @@
-D:\Informatica\C#\Menugrafico_solution\Menugrafico\bin\Debug\Menugrafico.exe.config
-D:\Informatica\C#\Menugrafico_solution\Menugrafico\bin\Debug\Menugrafico.exe
-D:\Informatica\C#\Menugrafico_solution\Menugrafico\bin\Debug\Menugrafico.pdb
-D:\Informatica\C#\Menugrafico_solution\Menugrafico\obj\Debug\Menugrafico.csproj.AssemblyReference.cache
-D:\Informatica\C#\Menugrafico_solution\Menugrafico\obj\Debug\Menugrafico.csproj.CoreCompileInputs.cache
-D:\Informatica\C#\Menugrafico_solution\Menugrafico\obj\Debug\Menugrafico.exe
-D:\Informatica\C#\Menugrafico_solution\Menugrafico\obj\Debug\Menugrafico.pdb

@@ -1,0 +1,7 @@
+C:\Users\s.revello.4127\Desktop\Pag52n26_solution\Pag52n26\bin\Debug\Pag52n26.exe.config
+C:\Users\s.revello.4127\Desktop\Pag52n26_solution\Pag52n26\bin\Debug\Pag52n26.exe
+C:\Users\s.revello.4127\Desktop\Pag52n26_solution\Pag52n26\bin\Debug\Pag52n26.pdb
+C:\Users\s.revello.4127\Desktop\Pag52n26_solution\Pag52n26\obj\Debug\Pag52n26.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\Pag52n26_solution\Pag52n26\obj\Debug\Pag52n26.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\Pag52n26_solution\Pag52n26\obj\Debug\Pag52n26.exe
+C:\Users\s.revello.4127\Desktop\Pag52n26_solution\Pag52n26\obj\Debug\Pag52n26.pdb

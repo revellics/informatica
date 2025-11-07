@@ -1,0 +1,8 @@
+C:\Users\s.revello.4127\Desktop\CrackAll_solution\CrackAll\bin\Debug\CrackAll.exe.config
+C:\Users\s.revello.4127\Desktop\CrackAll_solution\CrackAll\bin\Debug\CrackAll.exe
+C:\Users\s.revello.4127\Desktop\CrackAll_solution\CrackAll\bin\Debug\CrackAll.pdb
+C:\Users\s.revello.4127\Desktop\CrackAll_solution\CrackAll\obj\Debug\CrackAll.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\CrackAll_solution\CrackAll\obj\Debug\CrackAll.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\CrackAll_solution\CrackAll\obj\Debug\CrackAll.exe
+C:\Users\s.revello.4127\Desktop\CrackAll_solution\CrackAll\obj\Debug\CrackAll.pdb
+C:\Users\s.revello.4127\Desktop\CrackAll_solution\CrackAll\obj\Debug\CrackAll.exe.config

@@ -1,0 +1,16 @@
+C:\Users\s.revello.4127\Desktop\Vettore_Solution\Vettore\bin\Debug\Vettore.exe.config
+C:\Users\s.revello.4127\Desktop\Vettore_Solution\Vettore\bin\Debug\Vettore.exe
+C:\Users\s.revello.4127\Desktop\Vettore_Solution\Vettore\bin\Debug\Vettore.pdb
+C:\Users\s.revello.4127\Desktop\Vettore_Solution\Vettore\obj\Debug\Vettore.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\Vettore_Solution\Vettore\obj\Debug\Vettore.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\Vettore_Solution\Vettore\obj\Debug\Vettore.exe
+C:\Users\s.revello.4127\Desktop\Vettore_Solution\Vettore\obj\Debug\Vettore.pdb
+C:\Users\s.revello.4127\Desktop\Vettore_Solution\Vettore\obj\Debug\Vettore.exe.config
+D:\3B_inf\informatica\Vettore_Solution\Vettore\bin\Debug\Vettore.exe.config
+D:\3B_inf\informatica\Vettore_Solution\Vettore\bin\Debug\Vettore.exe
+D:\3B_inf\informatica\Vettore_Solution\Vettore\bin\Debug\Vettore.pdb
+D:\3B_inf\informatica\Vettore_Solution\Vettore\obj\Debug\Vettore.csproj.AssemblyReference.cache
+D:\3B_inf\informatica\Vettore_Solution\Vettore\obj\Debug\Vettore.exe.config
+D:\3B_inf\informatica\Vettore_Solution\Vettore\obj\Debug\Vettore.csproj.CoreCompileInputs.cache
+D:\3B_inf\informatica\Vettore_Solution\Vettore\obj\Debug\Vettore.exe
+D:\3B_inf\informatica\Vettore_Solution\Vettore\obj\Debug\Vettore.pdb

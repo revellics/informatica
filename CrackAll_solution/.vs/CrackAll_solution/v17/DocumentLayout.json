@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s.revello.4127\\Desktop\\CrackAll_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C14B9F5-E672-4466-BDE3-E18F7D7A85BE}|CrackAll\\CrackAll.csproj|c:\\users\\s.revello.4127\\desktop\\crackall_solution\\crackall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C14B9F5-E672-4466-BDE3-E18F7D7A85BE}|CrackAll\\CrackAll.csproj|solutionrelative:crackall\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.revello.4127\\Desktop\\CrackAll_solution\\CrackAll\\Program.cs",
+              "RelativeDocumentMoniker": "CrackAll\\Program.cs",
+              "ToolTip": "C:\\Users\\s.revello.4127\\Desktop\\CrackAll_solution\\CrackAll\\Program.cs",
+              "RelativeToolTip": "CrackAll\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:06:47.953Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

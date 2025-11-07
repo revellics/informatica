@@ -1,0 +1,7 @@
+C:\Users\s.revello.4127\Desktop\Es01_solution\Es01\bin\Debug\Es01.exe.config
+C:\Users\s.revello.4127\Desktop\Es01_solution\Es01\bin\Debug\Es01.exe
+C:\Users\s.revello.4127\Desktop\Es01_solution\Es01\bin\Debug\Es01.pdb
+C:\Users\s.revello.4127\Desktop\Es01_solution\Es01\obj\Debug\Es01.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\Es01_solution\Es01\obj\Debug\Es01.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\Es01_solution\Es01\obj\Debug\Es01.exe
+C:\Users\s.revello.4127\Desktop\Es01_solution\Es01\obj\Debug\Es01.pdb

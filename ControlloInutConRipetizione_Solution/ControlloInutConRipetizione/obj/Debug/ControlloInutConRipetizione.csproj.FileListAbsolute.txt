@@ -1,0 +1,7 @@
+C:\Users\s.revello.4127\Desktop\ControlloInutConRipetizione_Solution\ControlloInutConRipetizione\bin\Debug\ControlloInutConRipetizione.exe.config
+C:\Users\s.revello.4127\Desktop\ControlloInutConRipetizione_Solution\ControlloInutConRipetizione\bin\Debug\ControlloInutConRipetizione.exe
+C:\Users\s.revello.4127\Desktop\ControlloInutConRipetizione_Solution\ControlloInutConRipetizione\bin\Debug\ControlloInutConRipetizione.pdb
+C:\Users\s.revello.4127\Desktop\ControlloInutConRipetizione_Solution\ControlloInutConRipetizione\obj\Debug\ControlloInutConRipetizione.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\ControlloInutConRipetizione_Solution\ControlloInutConRipetizione\obj\Debug\ControlloInutConRipetizione.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\ControlloInutConRipetizione_Solution\ControlloInutConRipetizione\obj\Debug\ControlloInutConRipetizione.exe
+C:\Users\s.revello.4127\Desktop\ControlloInutConRipetizione_Solution\ControlloInutConRipetizione\obj\Debug\ControlloInutConRipetizione.pdb

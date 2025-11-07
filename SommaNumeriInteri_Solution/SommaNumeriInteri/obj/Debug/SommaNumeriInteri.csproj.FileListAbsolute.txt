@@ -1,0 +1,7 @@
+C:\Users\s.revello.4127\Desktop\SommaNumeriInteri_Solution\SommaNumeriInteri\bin\Debug\SommaNumeriInteri.exe.config
+C:\Users\s.revello.4127\Desktop\SommaNumeriInteri_Solution\SommaNumeriInteri\bin\Debug\SommaNumeriInteri.exe
+C:\Users\s.revello.4127\Desktop\SommaNumeriInteri_Solution\SommaNumeriInteri\bin\Debug\SommaNumeriInteri.pdb
+C:\Users\s.revello.4127\Desktop\SommaNumeriInteri_Solution\SommaNumeriInteri\obj\Debug\SommaNumeriInteri.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\SommaNumeriInteri_Solution\SommaNumeriInteri\obj\Debug\SommaNumeriInteri.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\SommaNumeriInteri_Solution\SommaNumeriInteri\obj\Debug\SommaNumeriInteri.exe
+C:\Users\s.revello.4127\Desktop\SommaNumeriInteri_Solution\SommaNumeriInteri\obj\Debug\SommaNumeriInteri.pdb

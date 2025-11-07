@@ -1,7 +1,0 @@
-D:\Informatica\C#\ControlloInputConRipetizione_solution\ControlloInputConRipetizione\bin\Debug\ControlloInputConRipetizione.exe.config
-D:\Informatica\C#\ControlloInputConRipetizione_solution\ControlloInputConRipetizione\bin\Debug\ControlloInputConRipetizione.exe
-D:\Informatica\C#\ControlloInputConRipetizione_solution\ControlloInputConRipetizione\bin\Debug\ControlloInputConRipetizione.pdb
-D:\Informatica\C#\ControlloInputConRipetizione_solution\ControlloInputConRipetizione\obj\Debug\ControlloInputConRipetizione.csproj.AssemblyReference.cache
-D:\Informatica\C#\ControlloInputConRipetizione_solution\ControlloInputConRipetizione\obj\Debug\ControlloInputConRipetizione.csproj.CoreCompileInputs.cache
-D:\Informatica\C#\ControlloInputConRipetizione_solution\ControlloInputConRipetizione\obj\Debug\ControlloInputConRipetizione.exe
-D:\Informatica\C#\ControlloInputConRipetizione_solution\ControlloInputConRipetizione\obj\Debug\ControlloInputConRipetizione.pdb
