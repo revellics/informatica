@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Informatica\\C#\\Menugrafico_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3735339-F1CF-4B6C-942C-D71819CBB7D0}|Menugrafico\\Menugrafico.csproj|d:\\informatica\\c#\\menugrafico_solution\\menugrafico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3735339-F1CF-4B6C-942C-D71819CBB7D0}|Menugrafico\\Menugrafico.csproj|solutionrelative:menugrafico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Informatica\\C#\\Menugrafico_solution\\Menugrafico\\Program.cs",
+              "RelativeDocumentMoniker": "Menugrafico\\Program.cs",
+              "ToolTip": "D:\\Informatica\\C#\\Menugrafico_solution\\Menugrafico\\Program.cs",
+              "RelativeToolTip": "Menugrafico\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T06:17:42.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\EsGrafici_solution\EsGrafici\bin\Debug\EsGrafici.exe.config
+C:\Users\User\Desktop\EsGrafici_solution\EsGrafici\bin\Debug\EsGrafici.exe
+C:\Users\User\Desktop\EsGrafici_solution\EsGrafici\bin\Debug\EsGrafici.pdb
+C:\Users\User\Desktop\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.exe
+C:\Users\User\Desktop\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.pdb
+C:\Users\User\Desktop\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.exe.config
+D:\Informatica\C#\EsGrafici_solution\EsGrafici\bin\Debug\EsGrafici.exe.config
+D:\Informatica\C#\EsGrafici_solution\EsGrafici\bin\Debug\EsGrafici.exe
+D:\Informatica\C#\EsGrafici_solution\EsGrafici\bin\Debug\EsGrafici.pdb
+D:\Informatica\C#\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.csproj.AssemblyReference.cache
+D:\Informatica\C#\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.csproj.CoreCompileInputs.cache
+D:\Informatica\C#\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.exe
+D:\Informatica\C#\EsGrafici_solution\EsGrafici\obj\Debug\EsGrafici.pdb

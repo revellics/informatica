@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Informatica\\C#\\ControlloInputConRipetizione_solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F5AB17-68A7-4132-9D49-E90BA7B200E7}|ControlloInputConRipetizione\\ControlloInputConRipetizione.csproj|d:\\informatica\\c#\\controlloinputconripetizione_solution\\controlloinputconripetizione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F5AB17-68A7-4132-9D49-E90BA7B200E7}|ControlloInputConRipetizione\\ControlloInputConRipetizione.csproj|solutionrelative:controlloinputconripetizione\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Informatica\\C#\\ControlloInputConRipetizione_solution\\ControlloInputConRipetizione\\Program.cs",
+              "RelativeDocumentMoniker": "ControlloInputConRipetizione\\Program.cs",
+              "ToolTip": "D:\\Informatica\\C#\\ControlloInputConRipetizione_solution\\ControlloInputConRipetizione\\Program.cs",
+              "RelativeToolTip": "ControlloInputConRipetizione\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:19:55.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

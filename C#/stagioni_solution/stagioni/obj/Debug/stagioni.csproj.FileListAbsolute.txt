@@ -1,0 +1,15 @@
+D:\stagioni_solution\stagioni\bin\Debug\stagioni.exe.config
+D:\stagioni_solution\stagioni\bin\Debug\stagioni.exe
+D:\stagioni_solution\stagioni\bin\Debug\stagioni.pdb
+D:\stagioni_solution\stagioni\obj\Debug\stagioni.csproj.AssemblyReference.cache
+D:\stagioni_solution\stagioni\obj\Debug\stagioni.csproj.SuggestedBindingRedirects.cache
+D:\stagioni_solution\stagioni\obj\Debug\stagioni.csproj.CoreCompileInputs.cache
+D:\stagioni_solution\stagioni\obj\Debug\stagioni.exe
+D:\stagioni_solution\stagioni\obj\Debug\stagioni.pdb
+D:\Informatica\C#\stagioni_solution\stagioni\bin\Debug\stagioni.exe.config
+D:\Informatica\C#\stagioni_solution\stagioni\bin\Debug\stagioni.exe
+D:\Informatica\C#\stagioni_solution\stagioni\bin\Debug\stagioni.pdb
+D:\Informatica\C#\stagioni_solution\stagioni\obj\Debug\stagioni.csproj.AssemblyReference.cache
+D:\Informatica\C#\stagioni_solution\stagioni\obj\Debug\stagioni.csproj.CoreCompileInputs.cache
+D:\Informatica\C#\stagioni_solution\stagioni\obj\Debug\stagioni.exe
+D:\Informatica\C#\stagioni_solution\stagioni\obj\Debug\stagioni.pdb

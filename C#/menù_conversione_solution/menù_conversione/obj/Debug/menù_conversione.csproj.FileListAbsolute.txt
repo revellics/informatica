@@ -1,0 +1,15 @@
+D:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.csproj.AssemblyReference.cache
+D:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.csproj.CoreCompileInputs.cache
+D:\Informatica\C#\menù_conversione_solution\menù_conversione\bin\Debug\menù_conversione.exe.config
+D:\Informatica\C#\menù_conversione_solution\menù_conversione\bin\Debug\menù_conversione.exe
+D:\Informatica\C#\menù_conversione_solution\menù_conversione\bin\Debug\menù_conversione.pdb
+D:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.exe
+D:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.pdb
+E:\Informatica\C#\menù_conversione_solution\menù_conversione\bin\Debug\menù_conversione.exe.config
+E:\Informatica\C#\menù_conversione_solution\menù_conversione\bin\Debug\menù_conversione.exe
+E:\Informatica\C#\menù_conversione_solution\menù_conversione\bin\Debug\menù_conversione.pdb
+E:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.csproj.AssemblyReference.cache
+E:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.exe.config
+E:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.csproj.CoreCompileInputs.cache
+E:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.exe
+E:\Informatica\C#\menù_conversione_solution\menù_conversione\obj\Debug\menù_conversione.pdb

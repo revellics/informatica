@@ -1,0 +1,7 @@
+E:\Informatica\C#\es24pag52_solution\es24pag52\bin\Debug\es24pag52.exe.config
+E:\Informatica\C#\es24pag52_solution\es24pag52\bin\Debug\es24pag52.exe
+E:\Informatica\C#\es24pag52_solution\es24pag52\bin\Debug\es24pag52.pdb
+E:\Informatica\C#\es24pag52_solution\es24pag52\obj\Debug\es24pag52.csproj.AssemblyReference.cache
+E:\Informatica\C#\es24pag52_solution\es24pag52\obj\Debug\es24pag52.csproj.CoreCompileInputs.cache
+E:\Informatica\C#\es24pag52_solution\es24pag52\obj\Debug\es24pag52.exe
+E:\Informatica\C#\es24pag52_solution\es24pag52\obj\Debug\es24pag52.pdb

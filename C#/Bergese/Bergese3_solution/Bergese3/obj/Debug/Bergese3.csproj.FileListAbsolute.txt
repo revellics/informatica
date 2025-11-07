@@ -1,0 +1,14 @@
+C:\Users\p.bergese.3883\Desktop\Bergese3_solution\Bergese3\bin\Debug\Bergese3.exe.config
+C:\Users\p.bergese.3883\Desktop\Bergese3_solution\Bergese3\bin\Debug\Bergese3.exe
+C:\Users\p.bergese.3883\Desktop\Bergese3_solution\Bergese3\bin\Debug\Bergese3.pdb
+C:\Users\p.bergese.3883\Desktop\Bergese3_solution\Bergese3\obj\Debug\Bergese3.csproj.AssemblyReference.cache
+C:\Users\p.bergese.3883\Desktop\Bergese3_solution\Bergese3\obj\Debug\Bergese3.csproj.CoreCompileInputs.cache
+C:\Users\p.bergese.3883\Desktop\Bergese3_solution\Bergese3\obj\Debug\Bergese3.exe
+C:\Users\p.bergese.3883\Desktop\Bergese3_solution\Bergese3\obj\Debug\Bergese3.pdb
+C:\Users\p.bergese.3883\Desktop\Bergese\Bergese3_solution\Bergese3\bin\Debug\Bergese3.exe.config
+C:\Users\p.bergese.3883\Desktop\Bergese\Bergese3_solution\Bergese3\bin\Debug\Bergese3.exe
+C:\Users\p.bergese.3883\Desktop\Bergese\Bergese3_solution\Bergese3\bin\Debug\Bergese3.pdb
+C:\Users\p.bergese.3883\Desktop\Bergese\Bergese3_solution\Bergese3\obj\Debug\Bergese3.csproj.AssemblyReference.cache
+C:\Users\p.bergese.3883\Desktop\Bergese\Bergese3_solution\Bergese3\obj\Debug\Bergese3.csproj.CoreCompileInputs.cache
+C:\Users\p.bergese.3883\Desktop\Bergese\Bergese3_solution\Bergese3\obj\Debug\Bergese3.exe
+C:\Users\p.bergese.3883\Desktop\Bergese\Bergese3_solution\Bergese3\obj\Debug\Bergese3.pdb

@@ -1,0 +1,8 @@
+E:\Informatica\C#\Es7pag51_solution\Es7pag51\bin\Debug\Es7pag51.exe.config
+E:\Informatica\C#\Es7pag51_solution\Es7pag51\bin\Debug\Es7pag51.exe
+E:\Informatica\C#\Es7pag51_solution\Es7pag51\bin\Debug\Es7pag51.pdb
+E:\Informatica\C#\Es7pag51_solution\Es7pag51\obj\Debug\Es7pag51.csproj.AssemblyReference.cache
+E:\Informatica\C#\Es7pag51_solution\Es7pag51\obj\Debug\Es7pag51.csproj.CoreCompileInputs.cache
+E:\Informatica\C#\Es7pag51_solution\Es7pag51\obj\Debug\Es7pag51.exe
+E:\Informatica\C#\Es7pag51_solution\Es7pag51\obj\Debug\Es7pag51.pdb
+E:\Informatica\C#\Es7pag51_solution\Es7pag51\obj\Debug\Es7pag51.exe.config

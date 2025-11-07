@@ -1,0 +1,7 @@
+D:\Informatica\C#\SommaNumeriInteri_solution\SommaNumeriInteri\bin\Debug\SommaNumeriInteri.exe.config
+D:\Informatica\C#\SommaNumeriInteri_solution\SommaNumeriInteri\bin\Debug\SommaNumeriInteri.exe
+D:\Informatica\C#\SommaNumeriInteri_solution\SommaNumeriInteri\bin\Debug\SommaNumeriInteri.pdb
+D:\Informatica\C#\SommaNumeriInteri_solution\SommaNumeriInteri\obj\Debug\SommaNumeriInteri.csproj.AssemblyReference.cache
+D:\Informatica\C#\SommaNumeriInteri_solution\SommaNumeriInteri\obj\Debug\SommaNumeriInteri.csproj.CoreCompileInputs.cache
+D:\Informatica\C#\SommaNumeriInteri_solution\SommaNumeriInteri\obj\Debug\SommaNumeriInteri.exe
+D:\Informatica\C#\SommaNumeriInteri_solution\SommaNumeriInteri\obj\Debug\SommaNumeriInteri.pdb
