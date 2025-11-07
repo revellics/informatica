@@ -276,6 +276,21 @@ namespace Menugrafico
                             Console.WriteLine("Ci sono delle differenze");
                         Console.ReadKey(true);
                         break;
+                    case 'y':
+                    case 'Y':
+                        n = InserisciN("inserire lunghezza vettore: ", 1, 200);
+                        a = new int[n];
+                        Fibonacci(a);
+                        StampaV(a);
+                        Console.ReadKey(true);
+                        break;
+                    case 'z':
+                    case 'Z':
+                        n = InserisciN("inserire lunghezza vettore: ", 1, 200);
+                        nomi = new string[] {"Allione", "Atanasov", "Azzolina", "Frocio bastardo", "Calvo", "Cannella", "Capatti", "Chiarena", "Cojocaru", "Drago", "Gaidano", "Gallo", "Ingargiola", "Kitanovski", "Manova", "Mayam", "Picco", "Racca", "Revello", "Sona", "Soster", "Taricco", "Tripi", "Voinovski", };
+                        TurniInterrogazioni(nomi, n);
+                        Console.ReadKey(true);
+                        break;
                     case 'q':
                     case 'Q':
                         break;
@@ -287,7 +302,8 @@ namespace Menugrafico
             } while (scelta.ToString().ToLower() != "q" );
         }
 
-        private static void CaricaVRanDisgiunto(int[] a, int v1, int v2)
+
+        static void CaricaVRanDisgiunto(int[] a, int v1, int v2)
         {
             int j;
             int x;
@@ -306,8 +322,7 @@ namespace Menugrafico
                 a[i]=x ;
             }
         }
-
-        private static void Cerca3maxParalleli(string[] nomi, int[] punti)
+        static void Cerca3maxParalleli(string[] nomi, int[] punti)
         {
             int[] mag = new int[3];
             int[] indice = new int[3] { -1, -1, -1 };
@@ -342,8 +357,7 @@ namespace Menugrafico
             }
             Console.WriteLine($"\n1 {nomi[indice[0]]} con {mag[0]}\n2 {nomi[indice[1]]} con {mag[1]}\n3 {nomi[indice[2]]} con {mag[2]}\n");
         }
-
-        private static void StampaVs(string[] nomi, int[] punti, string v)
+        static void StampaVs(string[] nomi, int[] punti, string v)
         {
             Console.WriteLine(v);
             for (int i = 0; i < nomi.Length; i++)
@@ -351,8 +365,7 @@ namespace Menugrafico
                 Console.WriteLine($"Nome {nomi[i]} -- Punti  {punti[i]}");
             }
         }
-
-        private static void PosNeg(int[] v, ref int n, ref int p)
+        static void PosNeg(int[] v, ref int n, ref int p)
         {
             for (int i = 0; i < v.Length; i++)
             {
@@ -378,8 +391,8 @@ namespace Menugrafico
             Console.WriteLine("j. Controlla media");
             Console.WriteLine("k. controllo speculiarità");
             Console.WriteLine("l. Divide i pari e dispari");
-            Console.WriteLine("m. ");
-            Console.WriteLine("n. ");
+            Console.WriteLine("m. Caparezza priamide");
+            Console.WriteLine("n. Patrizio");
             Console.WriteLine("o. Ordina un vettore in maniera crescente");
             Console.WriteLine("p. ");
             Console.WriteLine("r. ");
@@ -389,6 +402,7 @@ namespace Menugrafico
             Console.WriteLine("v. Genera vettore casualmente senza ripetizioni ");
             Console.WriteLine("w. Traslazione di un vettore circolare");
             Console.WriteLine("x. Verificare che il vettore sia fatto solo da numeri diversi");
+            Console.WriteLine("y. Fibonacci in un vettore");
 
 
             Console.WriteLine("\nq. Esci");
@@ -456,7 +470,7 @@ namespace Menugrafico
             for(int i=0; i<v.Length; i++)       //i++ riduce le micro istruzioni, se faccio a[i++] =7                a[++i] = 7
                 b[v.Length - i - 1] = v[i];     //            notazione post fissa, incremento dopo che ho inserito    notazione prefissa, aumenta primq
         }
-        private static void CopiareVettore(int[] v, int[] b)
+        static void CopiareVettore(int[] v, int[] b)
         {
             for (int i = 0; i < v.Length; i++)
             {
@@ -677,6 +691,46 @@ namespace Menugrafico
                 b=true;
 
             return b;
+        }
+        static void Fibonacci(int[] v)
+        {
+            int a = 0, b = 1, c;
+            for(int i = 0; i < v.Length - 1; i++)
+            {
+                v[i] = a;
+                c = a + b;
+                a = b;
+                b = c;
+            }
+        }
+        static void TurniInterrogazioni(string[] nomi, int n)
+        {
+            int x;
+            int t = nomi.Length / n;
+            for( int i = 0; i < t; i++ )
+            {
+                Console.WriteLine("");
+                Console.WriteLine($"Turno {i+1}:");
+                for( int j = 1; j <= n; j++)
+                {
+                    do
+                    {
+                        x = Random(0, nomi.Length-1);
+                    } while (nomi[x] == "");
+                    Console.WriteLine($"{nomi[x]}");
+                    nomi[x] = "";
+                }
+            }
+            if(nomi.Length % n != 0)
+            {
+                for( int i = 0; i < nomi.Length; i++)
+                {
+                    if( nomi[i] == "")
+                    {
+                        Console.WriteLine($"{nomi[i]}");
+                    }
+                }
+            }
         }
     }   
 }

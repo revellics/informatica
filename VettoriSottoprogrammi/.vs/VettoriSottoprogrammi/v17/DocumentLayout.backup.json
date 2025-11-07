@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GIthub\\Informatica\\C#\\VettoriSottoprogrammi\\",
+  "WorkspaceRootPath": "C:\\Users\\s.revello.4127\\Documents\\GitHub\\informatica\\VettoriSottoprogrammi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C83EB94-FA14-465B-BFCD-011C2B7514D3}|VettoriSottoprogrammi\\VettoriSottoprogrammi.csproj|c:\\users\\user\\desktop\\github\\informatica\\c#\\vettorisottoprogrammi\\vettorisottoprogrammi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C83EB94-FA14-465B-BFCD-011C2B7514D3}|VettoriSottoprogrammi\\VettoriSottoprogrammi.csproj|c:\\users\\s.revello.4127\\documents\\github\\informatica\\vettorisottoprogrammi\\vettorisottoprogrammi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C83EB94-FA14-465B-BFCD-011C2B7514D3}|VettoriSottoprogrammi\\VettoriSottoprogrammi.csproj|solutionrelative:vettorisottoprogrammi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GIthub\\Informatica\\C#\\VettoriSottoprogrammi\\VettoriSottoprogrammi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\s.revello.4127\\Documents\\GitHub\\informatica\\VettoriSottoprogrammi\\VettoriSottoprogrammi\\Program.cs",
               "RelativeDocumentMoniker": "VettoriSottoprogrammi\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\GIthub\\Informatica\\C#\\VettoriSottoprogrammi\\VettoriSottoprogrammi\\Program.cs",
-              "RelativeToolTip": "VettoriSottoprogrammi\\Program.cs",
-              "ViewState": "AgIAAJUCAAAAAAAAAAAIwJkCAAAxAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\s.revello.4127\\Documents\\GitHub\\informatica\\VettoriSottoprogrammi\\VettoriSottoprogrammi\\Program.cs*",
+              "RelativeToolTip": "VettoriSottoprogrammi\\Program.cs*",
+              "ViewState": "AgIAALYCAAAAAAAAAAAYwMkCAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T13:52:25.165Z",
               "EditorCaption": ""

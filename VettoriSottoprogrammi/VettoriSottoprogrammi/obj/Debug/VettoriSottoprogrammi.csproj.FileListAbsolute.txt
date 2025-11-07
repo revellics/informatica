@@ -31,3 +31,11 @@ C:\Users\User\Desktop\GIthub\Informatica\C#\VettoriSottoprogrammi\VettoriSottopr
 C:\Users\User\Desktop\GIthub\Informatica\C#\VettoriSottoprogrammi\VettoriSottoprogrammi\obj\Debug\VettoriSottoprogrammi.pdb
 C:\Users\p.bergese.3883\Desktop\Informatica\C#\VettoriSottoprogrammi\VettoriSottoprogrammi\obj\Debug\VettoriSottoprogrammi.csproj.SuggestedBindingRedirects.cache
 C:\Users\p.bergese.3883\Desktop\Informatica\C#\VettoriSottoprogrammi\VettoriSottoprogrammi\obj\Debug\VettoriSottoprogrammi.exe.config
+C:\Users\s.revello.4127\Documents\GitHub\informatica\VettoriSottoprogrammi\VettoriSottoprogrammi\bin\Debug\VettoriSottoprogrammi.exe.config
+C:\Users\s.revello.4127\Documents\GitHub\informatica\VettoriSottoprogrammi\VettoriSottoprogrammi\bin\Debug\VettoriSottoprogrammi.exe
+C:\Users\s.revello.4127\Documents\GitHub\informatica\VettoriSottoprogrammi\VettoriSottoprogrammi\bin\Debug\VettoriSottoprogrammi.pdb
+C:\Users\s.revello.4127\Documents\GitHub\informatica\VettoriSottoprogrammi\VettoriSottoprogrammi\obj\Debug\VettoriSottoprogrammi.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Documents\GitHub\informatica\VettoriSottoprogrammi\VettoriSottoprogrammi\obj\Debug\VettoriSottoprogrammi.exe.config
+C:\Users\s.revello.4127\Documents\GitHub\informatica\VettoriSottoprogrammi\VettoriSottoprogrammi\obj\Debug\VettoriSottoprogrammi.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Documents\GitHub\informatica\VettoriSottoprogrammi\VettoriSottoprogrammi\obj\Debug\VettoriSottoprogrammi.exe
+C:\Users\s.revello.4127\Documents\GitHub\informatica\VettoriSottoprogrammi\VettoriSottoprogrammi\obj\Debug\VettoriSottoprogrammi.pdb
