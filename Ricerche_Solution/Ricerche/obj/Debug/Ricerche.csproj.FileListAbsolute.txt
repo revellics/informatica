@@ -1,0 +1,8 @@
+C:\Users\s.revello.4127\Desktop\Ricerche_Solution\Ricerche\bin\Debug\Ricerche.exe.config
+C:\Users\s.revello.4127\Desktop\Ricerche_Solution\Ricerche\bin\Debug\Ricerche.exe
+C:\Users\s.revello.4127\Desktop\Ricerche_Solution\Ricerche\bin\Debug\Ricerche.pdb
+C:\Users\s.revello.4127\Desktop\Ricerche_Solution\Ricerche\obj\Debug\Ricerche.csproj.AssemblyReference.cache
+C:\Users\s.revello.4127\Desktop\Ricerche_Solution\Ricerche\obj\Debug\Ricerche.csproj.CoreCompileInputs.cache
+C:\Users\s.revello.4127\Desktop\Ricerche_Solution\Ricerche\obj\Debug\Ricerche.exe
+C:\Users\s.revello.4127\Desktop\Ricerche_Solution\Ricerche\obj\Debug\Ricerche.pdb
+C:\Users\s.revello.4127\Desktop\Ricerche_Solution\Ricerche\obj\Debug\Ricerche.exe.config
